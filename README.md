@@ -5,7 +5,7 @@ This repo contains the source code of paper "Guiding Neural Entity Alignment wit
 Download the used data from this [Dropbox directory](https://www.dropbox.com/sh/ff6fr22e636lby8/AACQYSPOkX3Oy7NUNk8L2dgqa?dl=0).
 Decompress it and put it under `emea_code/` as shown in the folder structure below.
 
-:pushpin: The code has been tested. Feel free to create issues if you cannot run it successfully. Thanks!
+:pushpin: The code has been tested. Feel free to create [issues](https://github.com/uqbingliu/EMEA/issues) if you cannot run it successfully. Thanks!
 
 
 ## Structure of Folders
