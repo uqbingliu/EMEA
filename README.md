@@ -58,6 +58,34 @@ Below are the scripts for different purposes:
 We suggest you try Dual-AMN model first because AliNet and IPTransE are relatively slow.
 * Run `sh run_emea_avoidconf.sh` to reproduce the results of _AvoidConf_ rule shown in Figure 6.
 
+## Citation
+
+Please cite this paper if you use the released code in your work.
+```
+@inproceedings{DBLP:conf/emnlp/0025SHZZZ22,
+  author    = {Bing Liu and
+               Harrisen Scells and
+               Wen Hua and
+               Guido Zuccon and
+               Genghong Zhao and
+               Xia Zhang},
+  editor    = {Yoav Goldberg and
+               Zornitsa Kozareva and
+               Yue Zhang},
+  title     = {Guiding Neural Entity Alignment with Compatibility},
+  booktitle = {Proceedings of the 2022 Conference on Empirical Methods in Natural
+               Language Processing, {EMNLP} 2022, Abu Dhabi, United Arab Emirates,
+               December 7-11, 2022},
+  pages     = {491--504},
+  publisher = {Association for Computational Linguistics},
+  year      = {2022},
+  url       = {https://aclanthology.org/2022.emnlp-main.32},
+  timestamp = {Tue, 07 Feb 2023 17:10:51 +0100},
+  biburl    = {https://dblp.org/rec/conf/emnlp/0025SHZZZ22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
 
 ## Acknowledgement
 We used the source codes of [RREA](https://github.com/MaoXinn/RREA), [Dual-AMN](https://github.com/MaoXinn/Dual-AMN), [OpenEA](https://github.com/nju-websoft/OpenEA).
